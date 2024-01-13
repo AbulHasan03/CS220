@@ -1,9 +1,7 @@
-# Queens College
 # Discrete Structures (CSCI 220)
 # Winter 2024
 # Assignment 9:
 # Abul Hasan
-# Collaborated with Class
 
 
 import math
