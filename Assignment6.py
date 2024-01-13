@@ -2,7 +2,6 @@
 # Winter 2024
 # Assignment 6: Empirical Analysis of Search Algorithms
 # Abul Hasan
-# Collaborated with Class
 
 from random import randint
 from matplotlib import pyplot as plt
