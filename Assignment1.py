@@ -1,9 +1,7 @@
-# Queens College
 # Discrete Structures (CSCI 220)
 # Winter 2024
 # Assignment 1: Logic and Truth Tables
 # Abul Hasan
-# Collaborated with Class
 
 import inspect
 import pandas as pd
